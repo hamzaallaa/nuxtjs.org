@@ -7,7 +7,7 @@ node_modules
 coverage
 dist
 sw.*
-.env
 .output
 .husky
 package-lock.json
+config.bat
